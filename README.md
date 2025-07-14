@@ -72,3 +72,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahshidsajadinia/mahshidsajadinia/output/pacman-contribution-graph.svg">
 <!--   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mahshidsajadinia/mahshidsajadinia/output/pacman-contribution-graph.svg"> -->
 </picture>
+
+###
+
+<p align="center" width="600" height="300">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahshidsajadinia&show_icons=true&theme=dark&hide_border=false" alt="stats" />
+</p>
+
+###
