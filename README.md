@@ -81,9 +81,9 @@
 
 ###
 
-<p align="center" width="600" height="300">
+<!-- <p align="center" width="600" height="300">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahshidsajadinia&show_icons=true&theme=dark&hide_border=false" alt="stats" />
-</p>
+</p> -->
 
 ###
 
