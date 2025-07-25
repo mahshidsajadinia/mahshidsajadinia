@@ -86,3 +86,12 @@
 </p>
 
 ###
+
+<p align="center">
+  <!-- Streak -->
+  <img width="350" src="https://github-readme-streak-stats-8qopazm3p-haneball.vercel.app/?user=mahshidsajadinia&theme=dark&hide_border=true" />
+  
+  <!-- Graph -->
+  <img width="394" src="https://github-readme-activity-graph-g56pdns35-haneball.vercel.app/graph/?username=mahshidsajadinia&theme=dark&bg_color=151515&color=ffc57d&line=FA8B00&point=FDFDFD&hide_border=true&radius=8"/>
+</p>
+
