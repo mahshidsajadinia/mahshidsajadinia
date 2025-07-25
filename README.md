@@ -1,4 +1,16 @@
-<h1 align="center">Welcome to my GitHub Profile!</h1>
+<!-- Welcome Message -->
+<h3 align="center">
+  Welcome to Mahshid Sajadinia's GitHub Profile!
+  <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" />
+</h3>
+
+###
+
+<!-- Typing Text -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71DEB&width=435&lines=Master's+Software+Engineering+student+at+IUST%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Interested+in+Cloud+%26+Edge+Computing%F0%9F%8E%AF;Python+Programmer+%26+DevOps+Specialist%F0%9F%92%BB" />
+</p>
 
 ###
 
